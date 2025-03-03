@@ -1,0 +1,21 @@
+Transaction ID,Transaction
+Trans1,"Printer, Paper, Pencils"
+Trans2,"Printer, Paper, Black Ink, Cyan Ink, Yellow Ink, Magenta Ink"
+Trans3,"Printer, Paper, Black Ink"
+Trans4,"Printer, Cyan Ink, Magenta Ink, Yellow Ink"
+Trans5,"Black Ink, Cyan Ink, Magenta Ink, Yellow Ink"
+Trans6,"Printer, Paper, Cyan Ink, Magenta Ink, Yellow Ink"
+Trans7,"Paper, Black Ink, Pencils"
+Trans8,"Paper, Pencils, Sticky Notes, Poster Board"
+Trans9,"Printer, Black Ink, Cyan Ink, Magenta Ink, Yellow Ink, Pencils"
+Trans10,"Paper, Black Ink, Cyan Ink, Magenta Ink, Yellow Ink, Pencils"
+Trans11,Poster Board
+Trans12,"Sticky Notes, Poster Board"
+Trans13,"Pencils, Sticky Notes, Poster Board"
+Trans14,"Printer, Paper, Black Ink, Poster Board"
+Trans15,"Printer, Paper"
+Trans16,Printer
+Trans17,"Paper, Pencils"
+Trans18,"Paper, Poster Board, Pencils, Sticky Notes"
+Trans19,"Black Ink, Cyan Ink, Magenta Ink, Yellow Ink, Paper"
+Trans20,"Printer, Paper, Pencils, Sticky Notes"
